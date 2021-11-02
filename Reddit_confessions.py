@@ -4,8 +4,6 @@ from nltk.probability import FreqDist
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from wordcloud import WordCloud
-from PIL import Image
 
 
 '''Reading the data from Kaggle. Dropping any other columns
