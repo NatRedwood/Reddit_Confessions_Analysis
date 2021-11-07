@@ -33,7 +33,7 @@ The purpose of this project is:
 To clean the data, get basic frequencies and plot figures showing the distribution of reddits' length, use of personal pronouns, positive lexicon, and negative lexicon, I used Python code. To present the information about the main topics and better visualize the distributions, I used the WordCloud package in Jupyter Notebook.
 
 ## Data used
-- One Million Reddit Confessions [link](https://www.kaggle.com/pavellexyr/one-million-reddit-confessions)
+- One Million Reddit Confessions [link](https://www.kaggle.com/pavellexyr/one-million-reddit-confessions) / Data found on Kaggle
 
 ## Project files
 1. Reddit Confessions Analysis **PY**: [link](https://github.com/Nwojarnik/Reddit_Confessions_Analysis/blob/main/Reddit_confessions._Analysis%2Bcleaning.py)
